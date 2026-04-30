@@ -1,6 +1,6 @@
 # Countermapping Project
 
-This repository includes a write-up and dataset for a countermapping project that explores the use of countermapping as a tool of accountability.  The project attempts to maps Kamehameha Schoolsʻ community investment for the fiscal year of 2019-2020. 
+This project is the final product of a Spring 2026 countermapping course at American University in Washington D.C., as part of the Public Anthropology Masterʻs program. This repository includes a write-up and dataset that explores the use of countermapping as a tool of accountability. The project attempts to maps Kamehameha Schoolsʻ community investment for the fiscal year of 2019-2020. 
 
 ## Contents
 
